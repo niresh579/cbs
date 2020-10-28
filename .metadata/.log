@@ -1,0 +1,16 @@
+!SESSION 2020-02-13 14:41:02.251 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.javascript.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.javascript.product
+
+!ENTRY org.eclipse.ui 4 4 2020-02-13 14:43:20.954
+!MESSAGE Part already exists in page layout: org.eclipse.ui.navigator.ProjectExplorer.
+
+!ENTRY org.eclipse.ui 4 4 2020-02-13 14:45:35.333
+!MESSAGE Part already exists in page layout: org.eclipse.ui.navigator.ProjectExplorer.
+
+!ENTRY org.eclipse.ui 4 4 2020-02-13 14:47:11.403
+!MESSAGE Part already exists in page layout: org.eclipse.ui.navigator.ProjectExplorer.

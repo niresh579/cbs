@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\CBS Testing\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3323540569.index
+1194638623.index
+3517824485.index
+3830101251.index
+3832470469.index
